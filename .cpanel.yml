@@ -1,2 +1,4 @@
 ---
 deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/tearsour/public_html/
