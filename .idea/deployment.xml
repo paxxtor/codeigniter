@@ -9,7 +9,7 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="pax">
+      <paths name="corporaciongibbor">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
