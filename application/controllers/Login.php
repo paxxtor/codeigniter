@@ -7,4 +7,10 @@ class Login extends MY_Controller {
     {
         $this->getname();
     }
+
+    public function get_users()
+    {
+
+        $this->getname();
+    }
 }

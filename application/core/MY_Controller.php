@@ -8,7 +8,7 @@ class MY_Controller extends CI_Controller {
         parent::__construct();
     }
 
-    public function index()
+    function index()
     {
         echo "Hola desde core";
     }

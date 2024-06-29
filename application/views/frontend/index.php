@@ -2,7 +2,6 @@
 <html lang="en">
 <!-- Mirrored from thewebmax.org/modern/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 May 2024 18:28:12 GMT -->
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="keywords" content="" />
@@ -16,24 +15,19 @@
 
     <!-- PAGE TITLE HERE -->
     <title>Modern Template | Home Page Style 1</title>
-
-    <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php include('topcss.php'); ?>
 
 </head>
 
 <body>
-
 	<div class="page-wraper">
         <?php include('header.php'); ?>
         <?php include('home.php'); ?>
         <?php include('footer.php'); ?>
 		<button class="scroltop"><span class="fa fa-angle-up  relative" id="btn-vibrate"></span></button>
-        
     </div>
- 
-<!-- LOADING AREA START ===== -->
+
 <div class="loading-area">
     <div class="loading-box"></div>
     <div class="loading-pic">
@@ -42,14 +36,7 @@
         </svg>
     </div>
 </div>
-<!-- LOADING AREA  END ====== -->
-
-<!-- JAVASCRIPT  FILES ========================================= -->
 
     <?php include('script.php'); ?>
-
 </body>
-
-
-<!-- Mirrored from thewebmax.org/modern/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 May 2024 18:28:42 GMT -->
 </html>
